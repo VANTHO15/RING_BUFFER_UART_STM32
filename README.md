@@ -47,18 +47,23 @@ Ring Buffer có các biến như sau để hiện thực hóa việc trên:
 
 ### OK code nhé ! Ví dụ làm bộ đệm chờ xử lý - Ring Buffer Char (RBC).
 - Struct của RBC
+  
 ![image](https://github.com/user-attachments/assets/c94cc132-6f70-4f53-b41c-ffa45406ac86)
 
 - Hàm khởi tạo RBC
+  
 ![image](https://github.com/user-attachments/assets/ae7b86ee-2f3e-4784-b3ee-44b75061afd6)
 
 - Để thêm một kí tự, sử dụng hàm put (thêm) với code như sau
+  
 ![image](https://github.com/user-attachments/assets/0feb6ff4-66db-4d62-b0bc-dbea38a69899)
 
 -  Để lấy một kí tự, sử dụng hàm get (lấy) với code như sau
+- 
 ![image](https://github.com/user-attachments/assets/9dd94e64-db5a-4469-b7fe-4e9cb7cb9537)
 
 - Các chức năng khác để kiểm tra buffer đang trống (empty) hoặc đầy (full).
+  
 ![image](https://github.com/user-attachments/assets/0529cf8d-070f-4ab7-8d9c-ee866e9076b4)
 
 
