@@ -59,7 +59,7 @@ Ring Buffer có các biến như sau để hiện thực hóa việc trên:
 ![image](https://github.com/user-attachments/assets/0feb6ff4-66db-4d62-b0bc-dbea38a69899)
 
 -  Để lấy một kí tự, sử dụng hàm get (lấy) với code như sau
-- 
+  
 ![image](https://github.com/user-attachments/assets/9dd94e64-db5a-4469-b7fe-4e9cb7cb9537)
 
 - Các chức năng khác để kiểm tra buffer đang trống (empty) hoặc đầy (full).
